@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/wrestling-matters/static/css/main.23e423bf.chunk.css",
+    "main.js": "/wrestling-matters/static/js/main.9ad7cb61.chunk.js",
+    "main.js.map": "/wrestling-matters/static/js/main.9ad7cb61.chunk.js.map",
+    "runtime-main.js": "/wrestling-matters/static/js/runtime-main.60e880b0.js",
+    "runtime-main.js.map": "/wrestling-matters/static/js/runtime-main.60e880b0.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/wrestling-matters/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.4e93d0b7.chunk.js": "/wrestling-matters/static/js/2.4e93d0b7.chunk.js",
+    "static/js/2.4e93d0b7.chunk.js.map": "/wrestling-matters/static/js/2.4e93d0b7.chunk.js.map",
+    "static/js/3.8ad7b084.chunk.js": "/wrestling-matters/static/js/3.8ad7b084.chunk.js",
+    "static/js/3.8ad7b084.chunk.js.map": "/wrestling-matters/static/js/3.8ad7b084.chunk.js.map",
+    "index.html": "/wrestling-matters/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/wrestling-matters/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.23e423bf.chunk.css.map": "/wrestling-matters/static/css/main.23e423bf.chunk.css.map",
+    "static/js/2.4e93d0b7.chunk.js.LICENSE.txt": "/wrestling-matters/static/js/2.4e93d0b7.chunk.js.LICENSE.txt",
+    "static/media/wrestling-matters-logo.c193d4c7.jpeg": "/wrestling-matters/static/media/wrestling-matters-logo.c193d4c7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60e880b0.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.4e93d0b7.chunk.js",
+    "static/css/main.23e423bf.chunk.css",
+    "static/js/main.9ad7cb61.chunk.js"
+  ]
+}
